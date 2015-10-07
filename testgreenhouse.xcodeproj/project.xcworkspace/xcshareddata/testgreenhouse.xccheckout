@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BC79DD2-8824-4F27-B8E4-603B49A032C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3A8BF460EBFF319609BDE7F50FD7DB9863C3016</key>
+		<string>ssh://gitlab.zensis.com:56789/dennis/testgreenhouse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testgreenhouse/testgreenhouse.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3A8BF460EBFF319609BDE7F50FD7DB9863C3016</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://gitlab.zensis.com:56789/dennis/testgreenhouse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3A8BF460EBFF319609BDE7F50FD7DB9863C3016</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3A8BF460EBFF319609BDE7F50FD7DB9863C3016</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testgreenhouse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
